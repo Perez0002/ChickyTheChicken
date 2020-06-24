@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+# Meet Chicky the Chicken
 
-You can use the [editor on GitHub](https://github.com/Perez0002/ChickyTheChicken/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Shes quite a chicken. legend has it she fears her own feathers.
+## but thats not even the worst part.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## she
+## eats
+## nuggets
 
-### Markdown
+## Crazy right? who wouldve thought a chicken could be a cannibal?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### I found a note in her diary the other day:
+### "i *cluck* found a *cluck* ***bug*** the other day. Imma *cluck* name it *Buggy* the *cluck* ***bug***!
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Perez0002/ChickyTheChicken/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+oh dang is this the secret connection with *Buggy* i mentioned earlier? whoaaaa. theres a plot now.

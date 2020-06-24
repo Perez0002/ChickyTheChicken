@@ -5,7 +5,7 @@
 
 ## she
 ## eats
-## nuggets
+## [nuggets](https://docs.google.com/drawings/d/1omBgP884UsT2lOC2gBPc5YI6a6cpG02NSPg0pLFHKPc/edit?usp=sharing)
 
 ## Crazy right? who wouldve thought a chicken could be a cannibal?
 
